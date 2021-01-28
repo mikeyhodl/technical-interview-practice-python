@@ -1,1 +1,1 @@
-# technical-interview-practice-python
+# technical interview practice python
